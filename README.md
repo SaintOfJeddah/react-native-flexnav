@@ -40,9 +40,9 @@ FlexNav is a flexible navigation bar created for React Native.
 ## Preview
 
 
-<img src="IMG_6104.gif" width="250" height="250"/>
+<img src="IMG_6104.gif" width="640" height="310"/>
 
 
-<img src="IMG_6105.gif" width="250" height="250"/>
+<img src="IMG_6105.gif" width="640" height="310"/>
 
 
